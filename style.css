@@ -1,0 +1,22 @@
+.menu {
+    display: flex;
+    justify-content: space-between;
+    background-color: aquamarine;
+}
+body {
+    background-color: whitesmoke ;
+}
+.image {
+    border:2px;
+    display:flex;
+    justify-content: center;
+}
+.facts {
+    display:flex;
+    flex-wrap: wrap;
+}
+.artist {
+    border-radius: 20px;
+
+
+}
